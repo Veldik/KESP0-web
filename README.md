@@ -1,2 +1,2 @@
-# KESP0-web
-Web pro mého kamaráda Kespa
+# KESP0vo web
+Web pro mého kamaráda Kespa.
